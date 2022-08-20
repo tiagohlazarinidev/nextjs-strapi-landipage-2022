@@ -11,7 +11,8 @@
     "build-storybook": "build-storybook",
     "test": "vitest",
     "export": "next export",
-    "deploy-static": "npm run build && npm run export"
+    "deploy-static": "npm run build && npm run export",
+    "lint-eslint": "eslint src --max-warnings=0"
   },
   "dependencies": {
     "@styled-icons/material-outlined": "^10.34.0",
@@ -38,6 +39,11 @@
     "@storybook/testing-library": "^0.0.13",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
+    "@types/node": "^18.7.6",
+    "@types/react": "^18.0.17",
+    "@types/styled-components": "^5.1.26",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
     "@vitejs/plugin-react": "^2.0.1",
     "babel-loader": "^8.2.5",
     "eslint": "^8.22.0",
@@ -50,6 +56,6 @@
     "jest-styled-components": "^7.1.0",
     "jsdom": "^20.0.0",
     "prettier": "^2.7.1",
-    "vitest": "^0.21.1"
+    "vitest": "^0.22.1"
   }
 }

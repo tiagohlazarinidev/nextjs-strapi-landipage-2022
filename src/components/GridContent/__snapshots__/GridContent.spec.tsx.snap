@@ -1,0 +1,227 @@
+// Vitest Snapshot v1
+
+exports[`<GridContent /> > should render grid content 1`] = `
+.c3 {
+  color: #0A1128;
+  font-size: 6.4rem;
+  text-transform: uppercase;
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+.c0 {
+  background: #FFFFFF;
+  color: #0A1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+.c2 {
+  text-align: center;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.c4 {
+  margin: 6.4rem 0;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4.0rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+    id=""
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <h2
+          class="c3"
+        >
+          O título que eu quero
+        </h2>
+        <div
+          class="c4"
+        >
+          <div
+            class="c5"
+          >
+            <p>
+              <em>
+                Lorem ipsum
+              </em>
+               dolor 
+              <strong>
+                sit amet
+              </strong>
+              , consectetur 
+              <a
+                href="https://www.google.com.br"
+              >
+                link to google
+              </a>
+              . Morbi mollis sollicitudin mauris non commodo. Vestibulum vitae nunc rutrum, lobortis purus aliquam, lacinia lectus. Donec accumsan, arcu vel sodales auctor, nisl nibh accumsan est, maximus porta velit lacus sit amet massa. Donec eget pharetra ex. Donec ut suscipit enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec posuere arcu eu turpis fermentum porta. Mauris feugiat sit amet dolor quis auctor.
+            </p>
+            
+
+            <p>
+              Nulla nec erat facilisis, tincidunt ligula a, aliquet felis. Sed varius a magna posuere fringilla. Curabitur fringilla vitae nisl eu rutrum. Nunc ac tempor nulla, ut elementum arcu. In malesuada nulla eget justo rutrum tempus. Etiam feugiat nunc nec tortor semper bibendum. Praesent dolor neque, imperdiet quis enim eu, lacinia volutpat lorem. Proin odio metus, sagittis nec nisl ut, commodo laoreet lorem. Aenean ligula metus, sollicitudin pharetra tempus sed, convallis ut lectus. Aliquam erat volutpat. Aenean nulla tortor, ullamcorper in libero non, aliquam dapibus nunc. Donec vitae feugiat nunc. Proin cursus fringilla efficitur.
+            </p>
+            
+
+            <p>
+              Fusce dictum augue at congue fermentum. Curabitur facilisis, mi eget aliquam suscipit, risus orci ultrices dui, ut hendrerit nisl leo ac purus. In hac habitasse platea dictumst. Cras hendrerit, nisi sed tristique pretium, odio massa hendrerit dui, ac accumsan dolor sem ut felis. Nulla ultrices consequat enim non suscipit. Phasellus blandit lectus sit amet consectetur pulvinar. Suspendisse accumsan erat sem, non elementum ipsum blandit ac. Vivamus commodo sit amet mauris eu imperdiet. Ut tincidunt suscipit bibendum. Nunc euismod nulla justo, at mattis eros aliquet a. Sed vel nibh nunc.
+            </p>
+            
+
+            <p>
+              Vivamus tempus dui eu lectus pharetra, non lobortis ante pretium. Duis eget lobortis urna, id aliquet eros. Praesent at nisl iaculis, facilisis ex sit amet, porttitor nisl. Nunc purus turpis, mattis eu volutpat nec, ultrices ornare nibh. Fusce eu viverra lacus. Quisque ut posuere sapien. Nam dui ex, lacinia euismod est et, posuere egestas erat. Nullam molestie et sapien vitae bibendum. Morbi imperdiet consectetur sem et vulputate. Sed condimentum eu leo eget tempus. Mauris ultrices ipsum eu augue finibus, at efficitur nulla aliquet. Pellentesque vel sem eget metus hendrerit ultricies sed id erat. Nullam feugiat ac nulla lacinia dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+            </p>
+            
+
+            <p>
+              Integer porta semper purus nec fermentum. Duis bibendum nec lorem ac consequat. Cras velit magna, porta quis tristique et, venenatis et odio. Cras vestibulum scelerisque convallis. Donec enim turpis, tempus id orci eget, ornare euismod leo. Nam ullamcorper, lacus non malesuada efficitur, orci quam consectetur est, non finibus felis tortor vel libero. Vivamus maximus posuere justo sed ultricies. Integer facilisis, enim dignissim ultricies malesuada, magna lectus tristique neque, sit amet dignissim libero ex ac est. Phasellus facilisis lobortis fermentum. Fusce justo nibh, euismod non felis in, tristique euismod eros. Vivamus eleifend, elit sit amet interdum molestie, ipsum ligula varius libero, in pharetra elit odio ut lorem.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<GridContent /> > should render grid content 2`] = `
+.c3 {
+  color: #0A1128;
+  font-size: 6.4rem;
+  text-transform: uppercase;
+}
+
+.c1 {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 3.2rem;
+}
+
+.c0 {
+  background: #FFFFFF;
+  color: #0A1128;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c5 {
+  font-size: 2.4rem;
+}
+
+.c2 {
+  text-align: center;
+  max-width: 58rem;
+  margin: 0 auto;
+}
+
+.c4 {
+  margin: 6.4rem 0;
+}
+
+@media (max-width:768px) {
+  .c3 {
+    font-size: 4.0rem;
+  }
+}
+
+<div>
+  <div
+    class="c0"
+    id=""
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2"
+      >
+        <h2
+          class="c3"
+        >
+          O título que eu quero
+        </h2>
+        <div
+          class="c4"
+        >
+          <div
+            class="c5"
+          >
+            <p>
+              <em>
+                Lorem ipsum
+              </em>
+               dolor 
+              <strong>
+                sit amet
+              </strong>
+              , consectetur 
+              <a
+                href="https://www.google.com.br"
+              >
+                link to google
+              </a>
+              . Morbi mollis sollicitudin mauris non commodo. Vestibulum vitae nunc rutrum, lobortis purus aliquam, lacinia lectus. Donec accumsan, arcu vel sodales auctor, nisl nibh accumsan est, maximus porta velit lacus sit amet massa. Donec eget pharetra ex. Donec ut suscipit enim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec posuere arcu eu turpis fermentum porta. Mauris feugiat sit amet dolor quis auctor.
+            </p>
+            
+
+            <p>
+              Nulla nec erat facilisis, tincidunt ligula a, aliquet felis. Sed varius a magna posuere fringilla. Curabitur fringilla vitae nisl eu rutrum. Nunc ac tempor nulla, ut elementum arcu. In malesuada nulla eget justo rutrum tempus. Etiam feugiat nunc nec tortor semper bibendum. Praesent dolor neque, imperdiet quis enim eu, lacinia volutpat lorem. Proin odio metus, sagittis nec nisl ut, commodo laoreet lorem. Aenean ligula metus, sollicitudin pharetra tempus sed, convallis ut lectus. Aliquam erat volutpat. Aenean nulla tortor, ullamcorper in libero non, aliquam dapibus nunc. Donec vitae feugiat nunc. Proin cursus fringilla efficitur.
+            </p>
+            
+
+            <p>
+              Fusce dictum augue at congue fermentum. Curabitur facilisis, mi eget aliquam suscipit, risus orci ultrices dui, ut hendrerit nisl leo ac purus. In hac habitasse platea dictumst. Cras hendrerit, nisi sed tristique pretium, odio massa hendrerit dui, ac accumsan dolor sem ut felis. Nulla ultrices consequat enim non suscipit. Phasellus blandit lectus sit amet consectetur pulvinar. Suspendisse accumsan erat sem, non elementum ipsum blandit ac. Vivamus commodo sit amet mauris eu imperdiet. Ut tincidunt suscipit bibendum. Nunc euismod nulla justo, at mattis eros aliquet a. Sed vel nibh nunc.
+            </p>
+            
+
+            <p>
+              Vivamus tempus dui eu lectus pharetra, non lobortis ante pretium. Duis eget lobortis urna, id aliquet eros. Praesent at nisl iaculis, facilisis ex sit amet, porttitor nisl. Nunc purus turpis, mattis eu volutpat nec, ultrices ornare nibh. Fusce eu viverra lacus. Quisque ut posuere sapien. Nam dui ex, lacinia euismod est et, posuere egestas erat. Nullam molestie et sapien vitae bibendum. Morbi imperdiet consectetur sem et vulputate. Sed condimentum eu leo eget tempus. Mauris ultrices ipsum eu augue finibus, at efficitur nulla aliquet. Pellentesque vel sem eget metus hendrerit ultricies sed id erat. Nullam feugiat ac nulla lacinia dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+            </p>
+            
+
+            <p>
+              Integer porta semper purus nec fermentum. Duis bibendum nec lorem ac consequat. Cras velit magna, porta quis tristique et, venenatis et odio. Cras vestibulum scelerisque convallis. Donec enim turpis, tempus id orci eget, ornare euismod leo. Nam ullamcorper, lacus non malesuada efficitur, orci quam consectetur est, non finibus felis tortor vel libero. Vivamus maximus posuere justo sed ultricies. Integer facilisis, enim dignissim ultricies malesuada, magna lectus tristique neque, sit amet dignissim libero ex ac est. Phasellus facilisis lobortis fermentum. Fusce justo nibh, euismod non felis in, tristique euismod eros. Vivamus eleifend, elit sit amet interdum molestie, ipsum ligula varius libero, in pharetra elit odio ut lorem.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
